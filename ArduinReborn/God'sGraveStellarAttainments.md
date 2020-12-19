@@ -29,3 +29,8 @@ Summon Hellhounds | 2 | Summon 2 Hellhounds that each attack any foe you damage 
 Empower | 5 |
 Aid | 3 | Cast any spell of 1st level or lower.
 Greater Aid | 5 | Cast any spell of 6th level or lower. Akmar will make a request of you that you will be bound to complete (via Geas)
+
+whenever a creature within 60ft dies, roll 1d6
+Heal a nearby ally for 1d6
+recover a spell slot 
+deal 1d8 psychic damage to a nearby enemy

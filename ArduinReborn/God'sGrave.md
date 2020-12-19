@@ -7,3 +7,7 @@ Xelcus — A stranger that left the city after the fall and took up residence wi
 
 The Calamity — A shard of Camalus, driven insane by the God’s death and the powers of the Eye of Chaos. It rules the Seat of the Maker’, Camalus’ skull which still contains his divine spark. (Inspiration— BotW Ganon)
 
+
+
+Current:
+Retreived the soul catcher for Milo (Undead Merchant) and cleared the way to the curio shop
