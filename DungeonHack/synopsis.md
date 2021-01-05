@@ -46,3 +46,5 @@ Die Mechanics
     +- 1d10 ad/disad-vantage (Environment > Skill > Item)
     + 1-3 magic bonus
     + 1d10 Fate
+
+"If you do a job, you should get paid; but sometimes you can't spend it where you are."
