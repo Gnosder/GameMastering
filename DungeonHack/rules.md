@@ -41,5 +41,5 @@ At the end of each encounter characters that are at or above 3 HP heal 1 HP
 Resting recovers all HP, unless the character is below 3 in which case they recover 1 HP (2 with bed rest and medicine)
 
 # Expiditions
-An expidition begins when a settle is left.
+An expidition begins when a settlement is left.
 Camping requies 1 ration per person
