@@ -10,3 +10,5 @@ Cape of the Mountebank  157
 Boots of Levitation 155
 Staff of Swarming Insects 203
 Beacon of Yrose: When dealing radiant damage to an undead, deal 2d6 extra radiant damage and turn the undead
+Bag of Holding
+Necklace of Adaptation
