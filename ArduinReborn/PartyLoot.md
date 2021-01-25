@@ -12,3 +12,12 @@ Staff of Swarming Insects 203
 Beacon of Yrose: When dealing radiant damage to an undead, deal 2d6 extra radiant damage and turn the undead
 Bag of Holding
 Necklace of Adaptation
+
+Staff of Dispersion
+Chime of  Opening
+Trident of Fish Command
+Ring of Water Breathing
+
+Rope of Entanglement
+Heward's Handy Haversack
+Ring of Invisibility
