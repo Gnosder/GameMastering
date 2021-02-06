@@ -39,12 +39,19 @@ Node 2 -- The armory
 
     4 Salamander Archons -- 100 souls
         AC 17 HP 54
+        immune fire
         Aura of Flame -- When bloodied each creature that starts or enters within 10ft take 4 fire damage
         Slam -- +8 melee, 10 fire damage, 2 attacks
         Reaping of Flame -- 10ft cube, DC 17 dex, 15 fire
 
     Vault of the Sun
         Riddle puzzle
+            Riddle: What can’t talk but will reply when spoken to?
+                Answer: An echo
+            21. Riddle: I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?
+                Answer: Your shadow
+            22. Riddle: What has many keys but can’t open a single lock?
+                Answer: A piano
         Loot: Stone Hammer, Bow of the Solari (+2 Radiant Burst Short Bow; Can create arrows of radiant light (full radiant damage), can cast daylight twice per day and sunbeam once per day), Helm of Forceful Will (1/day Dominate Creature; 1/day prismatic Ray; at-will Chromatic Orb; use Cha)
 
 Node 3 -- Well of Flames -- 120 souls
@@ -74,4 +81,4 @@ Node 3 -- Well of Flames -- 120 souls
     Loot
         Orb of the Sun (Grants truesight at will, if a divne caster may cast spells as 3 levels higher, 3/day dispel magic)
         (on a burned corpse near the altar) Curias of Hadar -- +2 Chainmail that can cast Arms of Hadar 3 times per day when struck
-            Thorn of Time --- 1/day slow, 1/day haste, once per day may 'store' a roll for later and make a new roll, once per day may replace a roll with a 'stored' roll.
+        Thorn of Time --- 1/day slow, 1/day haste, once per day, when rolling a d20, may discard the roll and 'store' it for later. When a roll is discarded in this way, it is re-rolled and MUST be kept. Once per day, if a roll is 'stored' in the Thorn of Time you may substitute it for a current roll. All stored rolls are lost during each Dawn.
