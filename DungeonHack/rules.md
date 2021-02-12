@@ -32,10 +32,10 @@ At any time the GM may:
     All spent Doom become Destiny at the end of the scene
 
 # Health and Damage 
-Each player character has 5 HP by default
+Each player character has 5 HP by default; 3 stamina HP, 2 Meat HP
 Each attack does 1 damage by default
 If a 6 is rolled damage is increased by 1
-At the end of each encounter characters that are at or above 3 HP heal 1 HP
+With a brief rest all stamina HP is recovered
 
 # Recovery
 Resting recovers all HP, unless the character is below 3 in which case they recover 1 HP (2 with bed rest and medicine)
