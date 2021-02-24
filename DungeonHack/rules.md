@@ -12,6 +12,7 @@ Each action has a difficulty, set by the GM
     -2 per each enemy if you are outnumberd
     Only players roll
 
+    Only use the best 2 dice.
     Compare the number rolled to the difficulty, if the number is higher the petitioner wins
     If the number is lower the petitioner loses and suffers effects of failure
     (In combat this means if you beat your targets defense, you deal damage to them; if you fail to beat their defence you take damage instead)
