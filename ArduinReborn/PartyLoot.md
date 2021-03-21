@@ -21,3 +21,6 @@ Ring of Water Breathing
 Rope of Entanglement
 Heward's Handy Haversack
 Ring of Invisibility
+
+Staff of Fire
+Helm of Forcefull Will
